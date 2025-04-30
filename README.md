@@ -15,6 +15,12 @@ I'm a passionate software developer with a strong focus on **Java** and **Blockc
 - Improving my knowledge of **Rust** and **Concurrency**.
 - Exploring **Blockchain** development with a focus on **smart contracts** and decentralized applications (dApps).
 
+## 🧠 LeetCode Journey
+
+I'm actively solving problems on [LeetCode](https://leetcode.com/dinesh_12334/) to improve my problem-solving skills.
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/dinesh_12334?theme=dark&font=Karla&extension=activity)
+
 ## 💡 I’m Looking to Collaborate On
 
 - **Java-based projects**, especially in backend development.
@@ -28,7 +34,6 @@ I'm a passionate software developer with a strong focus on **Java** and **Blockc
 [![GitHub Streak](https://streak-stats.demolab.com?user=dineshsuthar123&theme=tokyonight)](https://github.com/dineshsuthar123)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshsuthar123&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/dineshsuthar123)
-
 
 ## 📫 Reach Me
 
