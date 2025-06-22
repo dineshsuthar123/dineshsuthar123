@@ -11,6 +11,27 @@ I architect and deploy mission-critical backend infrastructure and blockchain so
 ## 🏆 Key Achievements
 [![LeetCode](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdinesh_12334&query=%24.solved&label=LeetCode&color=black&logo=leetcode&logoColor=gold&style=flat)](https://leetcode.com/dinesh_12334/)
 [![Hackathon](https://img.shields.io/badge/🏆_2nd_Runner_Up-Multi_Purpose_AI_Chatbot-blueviolet?style=flat)]()
+[![Problems Solved](https://custom-icon-badges.demolab.com/badge/✅_500%2B_LeetCode_Solutions-8A2BE2?logo=terminal)](https://leetcode.com/dinesh_12334/)
+
+## 💻 Coding Excellence
+### 🧠 LeetCode Mastery
+[![LeetCode Stats](https://leetcard.jacoblin.cool/dinesh_12334?theme=dark&font=Karla&extension=activity)](https://leetcode.com/dinesh_12334/)
+
+**Pattern-First Approach**  
+Focused on mastering 15+ core DSA patterns through curated problem lists :cite[1]:cite[3]:
+- Sliding Window
+- Two Pointers
+- Fast & Slow Pointers
+- Merge Intervals
+- Cyclic Sort
+- Tree BFS/DFS
+- Monotonic Stack
+- Top K Elements
+
+### 🔥 Consistency Metrics
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dineshsuthar123&theme=tokyonight&fire=DD472C)](https://github.com/dineshsuthar123)
+[![Daily Problem Solving](https://custom-icon-badges.demolab.com/badge/⏱️_Avg_30_mins/day-Focused_Practice-2CB3E8?logo=clock)]()
+[![Interview Ready](https://custom-icon-badges.demolab.com/badge/✅_300%2B_Curated_Problems-Interview_Ready-00C4CC?logo=star)](https://medium.com/algomaster-io/how-to-start-leetcode-in-2025-as-a-beginner-5306b44e42f9)
 
 ## 🔧 Production-Grade Stack
 **Backend Core**  
@@ -53,9 +74,7 @@ I architect and deploy mission-critical backend infrastructure and blockchain so
 **Protects:** User privacy while enabling KYC compliance
 
 ## 📊 Systems Performance
-
 [![Throughput Metrics](https://custom-icon-badges.demolab.com/badge/📈_10k_RPS-API_Throughput-green?style=flat&logo=graph-up)]()
-
 [![Uptime](https://custom-icon-badges.demolab.com/badge/🟢_95%25-Uptime_SLA-blue?style=flat&logo=shield-check)]()
 
 ## 🌱 Current Engineering Focus
@@ -73,7 +92,3 @@ I architect and deploy mission-critical backend infrastructure and blockchain so
 ## 📬 Let's Build the Future
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/dinesh-suthar-45b555287/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail)](mailto:dinesh.suthar18sld@gmail.com)
-
-<!---
-dineshsuthar123/dineshsuthar123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
