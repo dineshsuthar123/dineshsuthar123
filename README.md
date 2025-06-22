@@ -31,7 +31,7 @@ I'm actively solving problems on [LeetCode](https://leetcode.com/dinesh_12334/) 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dineshsuthar123&show_icons=true&hide=prs,issues&theme=tokyonight)](https://github.com/dineshsuthar123)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dineshsuthar123&theme=tokyonight)](https://github.com/dineshsuthar123)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dineshsuthar123&theme=tokyonight)](https://github.com/dineshsuthar123)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshsuthar123&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/dineshsuthar123)
 
