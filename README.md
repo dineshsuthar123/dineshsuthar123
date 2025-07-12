@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Dinesh Suthar
 
-**Java & Blockchain Systems Engineer** | Building high-throughput Spring Boot microservices & EVM solutions | Open Source Contributor | Shipping scalable, gas-optimized production systems 🚀
+**Java & Blockchain Systems Engineer** | Building high-throughput Spring Boot microservices & EVM solutions | Open Source Contributor | Shipping scalable, gas-optimized production systems 
 
 I architect and deploy mission-critical backend infrastructure and blockchain solutions that scale. My expertise lies in:
 - **High-volume systems** (10k+ RPS APIs)
