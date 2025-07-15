@@ -71,7 +71,7 @@ Focused on mastering 15+ core DSA patterns through curated problem lists :cite[1
 ### Decentralized Identity Verifier
 *ZK-SNARKs based identity protocol*  
 `Solidity` `Circom` `React`  
-✓ Private credentials │ 🛡️ Tamper-proof claims  
+✓ Private credentials │ 🛡️ Tamper-proof claims 
 **Protects:** User privacy while enabling KYC compliance
 
 ## 📊 Systems Performance
