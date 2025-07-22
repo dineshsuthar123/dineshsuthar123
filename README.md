@@ -8,7 +8,7 @@ I architect and deploy mission-critical backend infrastructure and blockchain so
 - **Event-driven architectures** (Kafka-powered pipelines)
 - **Cloud-native deployments** (AWS/GCP Kubernetes)
 
-## 🏆 Key Achievements
+## 🏆 Key Achievements 
 [![LeetCode](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdinesh_12334&query=%24.solved&label=LeetCode&color=black&logo=leetcode&logoColor=gold&style=flat)](https://leetcode.com/dinesh_12334/)
 [![Hackathon](https://img.shields.io/badge/🏆_2nd_Runner_Up-Multi_Purpose_AI_Chatbot-blueviolet?style=flat)]()
 [![Problems Solved](https://custom-icon-badges.demolab.com/badge/✅_500%2B_LeetCode_Solutions-8A2BE2?logo=terminal)](https://leetcode.com/dinesh_12334/)
