@@ -1,12 +1,36 @@
-# 👋 Hello, I'm Dinesh Suthar 
- 
-**Java & Blockchain Systems Engineer** | Building high-throughput Spring Boot microservices & EVM solutions | Open Source Contributor | Shipping scalable, gas-optimized production systems 
+# 👋 Hello, I'm Dinesh Suthar
+
+**Java & Blockchain Systems Engineer** | Building high-throughput Spring Boot microservices & EVM solutions | Open Source Contributor | Shipping scalable, gas-optimized production systems
 
 I architect and deploy mission-critical backend infrastructure and blockchain solutions that scale. My expertise lies in:
-- **High-volume systems** (10k+ RPS APIs) 
+
+- **High-volume systems** (10k+ RPS APIs)
 - **Production blockchain** (gas-optimized smart contracts)
 - **Event-driven architectures** (Kafka-powered pipelines)
 - **Cloud-native deployments** (AWS/GCP Kubernetes)
+
+---
+
+## 🚦 GitHub Status
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=dineshsuthar123&show_icons=true&theme=dark&include_all_commits=true" alt="Dinesh's GitHub stats"/>
+    </td>
+    <td valign="top">
+      <img src="https://streak-stats.demolab.com/?user=dineshsuthar123&theme=tokyonight&fire=DD472C" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Contribution heatmap (activity graph) -->
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=dineshsuthar123&theme=react-dark)
+
+<!-- Most used languages (compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshsuthar123&layout=compact&theme=dark)
+
+---
 
 ## 🏆 Key Achievements 
 [![LeetCode](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdinesh_12334&query=%24.solved&label=LeetCode&color=black&logo=leetcode&logoColor=gold&style=flat)](https://leetcode.com/dinesh_12334/)
@@ -59,7 +83,7 @@ Focused on mastering 15+ core DSA patterns through curated problem lists :cite[1
 *Production-ready anti-counterfeiting solution*  
 `Spring Cloud` `Ethereum` `Kafka` `AWS EKS`  
 ✓ 5k+ verifications/min │ ⛽ 40% gas reduction │ 🔒 Audited contracts  
-**Solves:** Counterfeit goods in medical/luxury supply chains
+**Solves:** Counterfeit goods in medical/luxury supply chains  
 **Link:** https://supplychain-auth-a3nzficnn-dineshs-projects-231eafe3.vercel.app/
 
 ### High-Frequency Trading Core 
@@ -71,7 +95,7 @@ Focused on mastering 15+ core DSA patterns through curated problem lists :cite[1
 ### Decentralized Identity Verifier
 *ZK-SNARKs based identity protocol*  
 `Solidity` `Circom` `React`  
-✓ Private credentials │ 🛡️ Tamper-proof claims 
+✓ Private credentials │ 🛡️ Tamper-proof claims  
 **Protects:** User privacy while enabling KYC compliance
 
 ## 📊 Systems Performance
