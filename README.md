@@ -18,9 +18,6 @@ I architect and deploy mission-critical backend infrastructure and blockchain so
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=dineshsuthar123&show_icons=true&theme=dark&include_all_commits=true" alt="Dinesh's GitHub stats"/>
     </td>
-    <td valign="top">
-      <img src="https://streak-stats.demolab.com/?user=dineshsuthar123&theme=tokyonight&fire=DD472C" alt="GitHub Streak"/>
-    </td>
   </tr>
 </table>
 
