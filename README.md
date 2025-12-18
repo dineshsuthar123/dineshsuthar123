@@ -81,7 +81,7 @@ Focused on mastering 15+ core DSA patterns through curated problem lists :cite[1
 `Spring Cloud` `Ethereum` `Kafka` `AWS EKS`  
 ✓ 5k+ verifications/min │ ⛽ 40% gas reduction │ 🔒 Audited contracts  
 **Solves:** Counterfeit goods in medical/luxury supply chains  
-**Link:** https://supplychain-auth-a3nzficnn-dineshs-projects-231eafe3.vercel.app/
+**Link:** https://supplyledger.vercel.app/
 
 ### High-Frequency Trading Core 
 *Ultra-low latency trading engine*  
