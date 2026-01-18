@@ -1,116 +1,95 @@
-# 👋 Hello, I'm Dinesh Suthar
+# 👋 Hi — I'm Dinesh Suthar
 
-**Java & Blockchain Systems Engineer** | Building high-throughput Spring Boot microservices & EVM solutions | Open Source Contributor | Shipping scalable, gas-optimized production systems
+**Java & Blockchain Systems Engineer** · Building high-throughput Spring Boot microservices & production EVM solutions · Open Source Contributor
 
-I architect and deploy mission-critical backend infrastructure and blockchain solutions that scale. My expertise lies in:
-
-- **High-volume systems** (10k+ RPS APIs)
-- **Production blockchain** (gas-optimized smart contracts)
-- **Event-driven architectures** (Kafka-powered pipelines)
-- **Cloud-native deployments** (AWS/GCP Kubernetes)
+I design and ship backend systems that scale: ultra-low-latency trading engines, resilient microservices, and gas-optimized smart contracts. I focus on real-world constraints — throughput, latency, security, and cost — and deliver engineering that survives production.
 
 ---
 
-## 🚦 GitHub Status
-
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=dineshsuthar123&show_icons=true&theme=dark&include_all_commits=true" alt="Dinesh's GitHub stats"/>
-    </td>
-  </tr>
-</table>
-
-<!-- Contribution heatmap (activity graph) -->
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=dineshsuthar123&theme=react-dark)
-
-<!-- Most used languages (compact) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshsuthar123&layout=compact&theme=dark)
+[![GitHub followers](https://img.shields.io/github/followers/dineshsuthar123?label=Follow&style=social)](https://github.com/dineshsuthar123)  
+![Location](https://img.shields.io/badge/📍-India-blue) ![Open to Work](https://img.shields.io/badge/📂-Open%20to%20Internships--success)
 
 ---
 
-## 🏆 Key Achievements 
-[![LeetCode](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdinesh_12334&query=%24.solved&label=LeetCode&color=black&logo=leetcode&logoColor=gold&style=flat)](https://leetcode.com/dinesh_12334/)
-[![Hackathon](https://img.shields.io/badge/🏆_2nd_Runner_Up-Multi_Purpose_AI_Chatbot-blueviolet?style=flat)]()
-[![Problems Solved](https://custom-icon-badges.demolab.com/badge/✅_500%2B_LeetCode_Solutions-8A2BE2?logo=terminal)](https://leetcode.com/dinesh_12334/)
+## Table of contents
+- [Quick snapshot](#quick-snapshot)
+- [Core strengths](#core-strengths)
+- [Technical stack](#technical-stack)
+- [Selected projects](#selected-projects)
+- [Performance & reliability goals](#performance--reliability-goals)
+- [How I build things (workflow)](#how-i-build-things-workflow)
+- [Open source & community](#open-source--community)
+- [How to collaborate / contact](#how-to-collaborate--contact)
+- [Resume / Socials](#resume--socials)
 
-## 💻 Coding Excellence
-### 🧠 LeetCode Mastery
-[![LeetCode Stats](https://leetcard.jacoblin.cool/dinesh_12334?theme=dark&font=Karla&extension=activity)](https://leetcode.com/dinesh_12334/)
+---
 
-**Pattern-First Approach**  
-Focused on mastering 15+ core DSA patterns through curated problem lists :cite[1]:cite[3]:
-- Sliding Window
-- Two Pointers
-- Fast & Slow Pointers
-- Merge Intervals
-- Cyclic Sort
-- Tree BFS/DFS
-- Monotonic Stack
-- Top K Elements
+## Quick snapshot
 
-### 🔥 Consistency Metrics
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dineshsuthar123&theme=tokyonight&fire=DD472C)](https://github.com/dineshsuthar123)
-[![Daily Problem Solving](https://custom-icon-badges.demolab.com/badge/⏱️_Avg_30_mins/day-Focused_Practice-2CB3E8?logo=clock)]()
-[![Interview Ready](https://custom-icon-badges.demolab.com/badge/✅_300%2B_Curated_Problems-Interview_Ready-00C4CC?logo=star)](https://medium.com/algomaster-io/how-to-start-leetcode-in-2025-as-a-beginner-5306b44e42f9)
+- Backend & distributed systems engineer specializing in **Java**, **Spring Boot**, and **performance engineering**.  
+- Production blockchain developer focused on **gas-optimized Solidity** and EVM tooling.  
+- Practical engineering: I ship features that meet SLAs and cost targets — not just prototypes.
 
-## 🔧 Production-Grade Stack
-**Backend Core**  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)
+**One-line mission:** Build production systems that handle massive scale with clean code, predictable performance, and auditable behavior.
 
-**Blockchain**  
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?logo=ethereum&logoColor=black)
-![Ethereum](https://img.shields.io/badge/EVM-3C3C3D?logo=ethereum&logoColor=white)
+---
 
-**Data & Infrastructure**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+## Core strengths
 
-## 🚀 Featured Projects
+- **High-volume systems** — design & implement APIs that sustain 10k+ RPS with predictable p99 latencies.  
+- **Event-driven architectures** — Kafka-based pipelines, idempotency, backpressure, and observability.  
+- **Low-latency systems** — microsecond-aware Java services, careful GC/heap tuning, LMAX-style patterns.  
+- **Blockchain production** — gas-optimized smart contracts, testing, and deployment pipelines (Hardhat/Foundry).  
+- **Cloud-native operations** — Kubernetes, Terraform, CI/CD, monitoring (Prometheus + Grafana).  
+- **Performance tooling** — profiling (async-profiler, JFR), replayable benchmarks, eBPF as needed.
 
-### Supply Chain Authentication System
-*Production-ready anti-counterfeiting solution*  
-`Spring Cloud` `Ethereum` `Kafka` `AWS EKS`  
-✓ 5k+ verifications/min │ ⛽ 40% gas reduction │ 🔒 Audited contracts  
-**Solves:** Counterfeit goods in medical/luxury supply chains  
-**Link:** https://supplyledger.vercel.app/
+---
 
-### High-Frequency Trading Core 
-*Ultra-low latency trading engine*  
-`Java LMAX` `Kafka Streams` `Redis`  
-✓ 10k orders/sec │ 📉 <50ms p99 latency  
-**Optimizes:** Market order execution for crypto assets
+## Technical stack
 
-### Decentralized Identity Verifier
-*ZK-SNARKs based identity protocol*  
-`Solidity` `Circom` `React`  
-✓ Private credentials │ 🛡️ Tamper-proof claims  
-**Protects:** User privacy while enabling KYC compliance
+### Languages
+`Java` · `Kotlin` · `Python` · `Solidity` · `TypeScript`
 
-## 📊 Systems Performance
-[![Throughput Metrics](https://custom-icon-badges.demolab.com/badge/📈_10k_RPS-API_Throughput-green?style=flat&logo=graph-up)]()
-[![Uptime](https://custom-icon-badges.demolab.com/badge/🟢_95%25-Uptime_SLA-blue?style=flat&logo=shield-check)]()
+### Backend & Frameworks
+`Spring Boot` · `Spring Cloud` · `Hibernate` · `Netty` · `gRPC`
 
-## 🌱 Current Engineering Focus
-- **Gas optimization** for mass-adoption blockchain systems
-- **Vertical scaling** of event-driven architectures
-- **Zero-downtime deployments** on Kubernetes
-- **Smart contract security patterns**
+### Data & Messaging
+`PostgreSQL` · `Redis` · `MongoDB` · `Kafka` · `ClickHouse`
 
-## 💡 Collaboration Interests
-- Scaling Java microservices to 100k+ RPS
-- Novel DeFi primitives with economic security
-- Open-source infrastructure tooling
-- Blockchain x IoT integration
+### Blockchain & Crypto
+`Solidity` · `Hardhat` · `Foundry` · `EVM` · `ZK` (Circom)
 
-## 📬 Let's Build the Future
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/dinesh-suthar-45b555287/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail)](mailto:dinesh.suthar18sld@gmail.com)
+### Infra & Observability
+`Docker` · `Kubernetes (EKS/GKE)` · `AWS` · `Terraform` · `Prometheus` · `Grafana`
+
+---
+
+## Selected projects — deep, production-ready work
+
+### 1) Supply Ledger — Supply Chain Authentication System
+**Stack:** Spring Cloud · Ethereum · Kafka · AWS EKS  
+**What:** Distributed anti-counterfeiting platform for medical & luxury goods.  
+**Highlights:**  
+- Production throughput: **5k+ verifications/min**  
+- Smart contracts: **~40% gas reduction** via packed storage and optimized calldata  
+- Architecture: event-driven verification pipeline with tamper-proof proofs and audit trails  
+**Link:** `https://supplyledger.vercel.app/` (demo)
+
+**Architecture (high level):**
+```mermaid
+flowchart LR
+    A["IoT Scanner"]
+    B["Ingest API"]
+    C["Kafka"]
+    D["Processing Service"]
+    E["Smart Contract"]
+    F["Audit Database"]
+    G["Monitoring / Dashboard"]
+
+    A -->|signed event| B
+    B --> C
+    C --> D
+    D -->|tx| E
+    D --> F
+    F --> G
+
