@@ -1,95 +1,216 @@
-# 👋 Hi — I'm Dinesh Suthar
+# 🚀 Dinesh H Suthar
 
-**Java & Blockchain Systems Engineer** · Building high-throughput Spring Boot microservices & production EVM solutions · Open Source Contributor
-
-I design and ship backend systems that scale: ultra-low-latency trading engines, resilient microservices, and gas-optimized smart contracts. I focus on real-world constraints — throughput, latency, security, and cost — and deliver engineering that survives production.
-
----
-
-[![GitHub followers](https://img.shields.io/github/followers/dineshsuthar123?label=Follow&style=social)](https://github.com/dineshsuthar123)  
-![Location](https://img.shields.io/badge/📍-India-blue) ![Open to Work](https://img.shields.io/badge/📂-Open%20to%20Internships--success)
+> **Performance-focused Backend & Blockchain Engineer**  
+> Building high-throughput Java microservices and gas-efficient blockchain systems. I design, benchmark and ship production services that are **low-latency**, **resilient** and **observable**.
 
 ---
 
-## Table of contents
-- [Quick snapshot](#quick-snapshot)
-- [Core strengths](#core-strengths)
-- [Technical stack](#technical-stack)
-- [Selected projects](#selected-projects)
-- [Performance & reliability goals](#performance--reliability-goals)
-- [How I build things (workflow)](#how-i-build-things-workflow)
-- [Open source & community](#open-source--community)
-- [How to collaborate / contact](#how-to-collaborate--contact)
-- [Resume / Socials](#resume--socials)
+## ⚡ Quick Snapshot
+
+- 🎯 Performance-focused backend engineer (Java, Spring Boot) with hands-on experience in distributed systems, low-latency architectures, and event-driven pipelines
+- 💼 Internship experience in backend & performance engineering at **Samsung PRISM**
+- 🏆 **700+ LeetCode & Codeforces problems solved** — mastering algorithmic patterns and competitive programming
+- 📦 Practical track record: end-to-end projects deployed on **Kubernetes** with verified **Locust benchmarks** and CI integration
 
 ---
 
-## Quick snapshot
+## 💪 Core Strengths
 
-- Backend & distributed systems engineer specializing in **Java**, **Spring Boot**, and **performance engineering**.  
-- Production blockchain developer focused on **gas-optimized Solidity** and EVM tooling.  
-- Practical engineering: I ship features that meet SLAs and cost targets — not just prototypes.
-
-**One-line mission:** Build production systems that handle massive scale with clean code, predictable performance, and auditable behavior.
-
----
-
-## Core strengths
-
-- **High-volume systems** — design & implement APIs that sustain 10k+ RPS with predictable p99 latencies.  
-- **Event-driven architectures** — Kafka-based pipelines, idempotency, backpressure, and observability.  
-- **Low-latency systems** — microsecond-aware Java services, careful GC/heap tuning, LMAX-style patterns.  
-- **Blockchain production** — gas-optimized smart contracts, testing, and deployment pipelines (Hardhat/Foundry).  
-- **Cloud-native operations** — Kubernetes, Terraform, CI/CD, monitoring (Prometheus + Grafana).  
-- **Performance tooling** — profiling (async-profiler, JFR), replayable benchmarks, eBPF as needed.
+| Domain | Skills |
+|--------|--------|
+| ⚙️ **Backend Performance** | Profiling, eBPF, lock-free patterns, low-latency engineering |
+| 🌐 **Distributed Systems** | Kafka, idempotency, partitioning, event-driven architectures |
+| ☕ **Production Java** | Spring Boot, concurrency, memory profiling, JVM tuning |
+| 📊 **Observability** | Prometheus, Grafana, SLOs, structured logging, distributed tracing |
+| 🔬 **Benchmarking** | JMH, Locust, performance regression, CI integration |
 
 ---
 
-## Technical stack
+## 🛠️ Technical Stack (Production-Oriented)
 
-### Languages
-`Java` · `Kotlin` · `Python` · `Solidity` · `TypeScript`
-
-### Backend & Frameworks
-`Spring Boot` · `Spring Cloud` · `Hibernate` · `Netty` · `gRPC`
-
-### Data & Messaging
-`PostgreSQL` · `Redis` · `MongoDB` · `Kafka` · `ClickHouse`
-
-### Blockchain & Crypto
-`Solidity` · `Hardhat` · `Foundry` · `EVM` · `ZK` (Circom)
-
-### Infra & Observability
-`Docker` · `Kubernetes (EKS/GKE)` · `AWS` · `Terraform` · `Prometheus` · `Grafana`
+```
+🔥 Primary:     Java (OpenJDK 17), Spring Boot (Core, Data, Security)
+🌟 Secondary:   Python, TypeScript, FastAPI
+💾 Data & Infra: PostgreSQL, Redis (caching), Kafka (streaming), Docker, Kubernetes, AWS
+⚡ Performance:  LMAX Disruptor, eBPF, JMH, Locust, perf
+📈 CI & Ops:    GitHub Actions, Prometheus, Grafana, tracing & centralized logs
+```
 
 ---
 
-## Selected projects — deep, production-ready work
+## 🎯 Selected Projects (Concise & Measurable)
 
-### 1) Supply Ledger — Supply Chain Authentication System
-**Stack:** Spring Cloud · Ethereum · Kafka · AWS EKS  
-**What:** Distributed anti-counterfeiting platform for medical & luxury goods.  
-**Highlights:**  
-- Production throughput: **5k+ verifications/min**  
-- Smart contracts: **~40% gas reduction** via packed storage and optimized calldata  
-- Architecture: event-driven verification pipeline with tamper-proof proofs and audit trails  
-**Link:** `https://supplyledger.vercel.app/` (demo)
+### 🔐 Supply Chain Authentication System
 
-**Architecture (high level):**
+**Stack:** `Spring Boot` • `Kafka` • `Redis` • `Kubernetes`
+
+**What:** Production-ready platform to prevent counterfeiting at scale.
+
+**Outcome:**  
+✅ Verified Locust benchmark: **7k+ RPS** with ~**12.8 ms p99** on core verification endpoints  
+✅ 200k-entry Redis cache with **99.8% hit-rate**  
+✅ Production-grade observability with Prometheus & Grafana
+
+---
+
+### 🤖 AI Resume Analyzer
+
+**Stack:** `FastAPI` • `Vector Search` • `Lightweight Embeddings`
+
+**What:** Low-memory resume parser and scorer for hiring workflows.
+
+**Outcome:**  
+✅ **95% parsing accuracy** across PDF/DOCX formats  
+✅ Optimized to run in **512 MB containers**  
+✅ Fast semantic matching with vector embeddings
+
+---
+
+### ⚡ Low-Latency Engine (R&D)
+
+**Stack:** `Java Concurrency` • `Lock-free Data Structures` • `Optimization Patterns`
+
+**What:** Reduced contention in an event processing pipeline.
+
+**Outcome:**  
+✅ Up to **~68% latency reduction** in targeted flows  
+✅ Algorithmic improvements + strategic caching  
+✅ Zero-allocation critical paths
+
+---
+
+## 📊 Performance & Reliability — Current Metrics & Goals
+
+### 🎯 Current (Verified)
+
+- ✅ Locust-verified benchmarks: **7k+ RPS**, **12.8 ms p99** on verification service
+- ✅ Internship improvements: **+40% throughput** in enrichment pipelines
+- ✅ Production-grade observability and health checks deployed
+
+### 🚀 Goals
+
+- 🎯 Scale critical services toward **10k–100k RPS** depending on problem surface
+- ⚡ Keep p99 latency **under 100 ms** for user-facing APIs (target **<50 ms** for critical paths)
+- 🛡️ Aim for **99.95% availability** on core processing flows
+- 🔬 Automated perf regression tests in CI/CD pipeline
+
+---
+
+## 🔄 How I Build Things — Workflow
+
 ```mermaid
-flowchart LR
-    A["IoT Scanner"]
-    B["Ingest API"]
-    C["Kafka"]
-    D["Processing Service"]
-    E["Smart Contract"]
-    F["Audit Database"]
-    G["Monitoring / Dashboard"]
+graph LR
+    A[📝 Design & RFC] --> B[🔬 Prototype & Benchmark]
+    B --> C[📊 Instrument Early]
+    C --> D[🧪 Tests & Perf Regression]
+    D --> E[🚀 CI/CD & Rollout]
+    E --> F[📈 Post-Deploy Audits]
+```
 
-    A -->|signed event| B
-    B --> C
-    C --> D
-    D -->|tx| E
-    D --> F
-    F --> G
+1. **📝 Design & RFC** — Short design doc with acceptance criteria and target metrics
+2. **🔬 Prototype & benchmark** — Micro-prototypes + JMH (micro) and Locust (end-to-end) to validate approach
+3. **📊 Instrument early** — Metrics, logs, and tracing from day one (Prometheus + distributed tracing)
+4. **🧪 Tests & perf regression** — Unit + integration tests, plus automated perf checks in CI
+5. **🚀 CI/CD & rollout** — GitHub Actions + canary/staged rollouts with health checks
+6. **📈 Post-deploy audits** — Dashboards, alerts, and regular perf regression runs
 
+> This keeps features **measurable**, **safe to deploy**, and **easy to validate** for reviewers.
+
+---
+
+## 🏆 Competitive Programming & Problem Solving
+
+<div align="center">
+
+### 💻 **700+ Problems Solved**
+
+| Platform | Profile | Achievement |
+|----------|---------|-------------|
+| 🟠 **LeetCode** | [dinesh_12334](https://leetcode.com/u/dinesh_12334) | Master of algorithmic patterns |
+| 🔵 **Codeforces** | [Dinesh_1107](https://codeforces.com/profile/Dinesh_1107) | Competitive problem solver |
+
+**Patterns Mastered:** Arrays • Strings • Trees • Graphs • Dynamic Programming • Backtracking • Greedy • Binary Search • Two Pointers • Sliding Window • Stack/Queue • Heap • Trie • Union Find
+
+</div>
+
+---
+
+## 🌟 Open Source & Community
+
+I contribute to open-source projects focusing on:
+
+- 🐛 **Bug fixes** — Clear reproduction steps and minimal patches
+- 📚 **Documentation improvements** — Developer experience enhancements
+- ⚡ **Performance patches** — Quick wins with benchmarks for maintainers
+
+> I write **clear PRs**, include **benchmarks** where relevant, and ensure changes are **easy to validate**.
+
+---
+
+## 🤝 How to Collaborate (Preferences)
+
+**Open to:**
+- 💼 Internships
+- 🌍 Open-source contributions
+- 🚀 Startup roles
+- 💰 Freelance gigs
+- 🎓 Mentorship relationships
+
+**Preferred workflow:**
+```
+📬 Open an issue → 💬 Short design discussion → 🔧 PR with tests & benchmarks
+```
+
+**Deliverables I provide:**
+- 📋 Design doc
+- 📊 Benchmark plan
+- ✅ Tests
+- 🔄 CI config
+- 📝 Rollout notes
+
+---
+
+## 📬 Resume & Socials
+
+<div align="center">
+
+| Resource | Link |
+|----------|------|
+| 📄 **Resume (PDF)** | [View Resume](https://drive.google.com/file/d/1mqqnKktOqUooop7U_MDF6IKJXQF8TFfX/view?usp=drivesdk) |
+| 💻 **GitHub** | [@dineshsuthar123](https://github.com/dineshsuthar123) |
+| 💼 **LinkedIn** | [Dinesh Suthar](https://www.linkedin.com/in/dinesh-suthar-45b555287/) |
+| 🟠 **LeetCode** | [dinesh_12334](https://leetcode.com/u/dinesh_12334) |
+| 🔵 **Codeforces** | [Dinesh_1107](https://codeforces.com/profile/Dinesh_1107) |
+| 📧 **Email** | [dinesh.suthar18sld@gmail.com](mailto:dinesh.suthar18sld@gmail.com) |
+
+</div>
+
+---
+
+## 🎯 TL;DR — Why Work With Me
+
+```
+✨ I design and ship backend systems with measurable performance guarantees
+🔬 I validate approaches with benchmarks before production
+📊 I instrument services for complete observability
+🧪 I deliver production-grade code, tests, and rollout plans
+⚡ I treat performance as a first-class feature, not an afterthought
+```
+
+> **If you need a Java backend engineer who treats performance as a first-class feature, let's work together.** 🚀
+
+---
+
+<div align="center">
+
+### 💡 Fun Fact
+
+*"Premature optimization is the root of all evil, but measuring performance is always the right time."*
+
+**Let's build something fast, reliable, and legendary together!** ⚡🔥
+
+[![GitHub followers](https://img.shields.io/github/followers/dineshsuthar123?style=social)](https://github.com/dineshsuthar123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dinesh-suthar-45b555287/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-700%2B%20Solved-orange?style=flat&logo=leetcode)](https://leetcode.com/u/dinesh_12334)
+
+</div>
