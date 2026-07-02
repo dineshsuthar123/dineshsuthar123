@@ -176,7 +176,7 @@ I contribute to open-source projects focusing on:
 
 | Resource | Link |
 |----------|------|
-| 📄 **Resume (PDF)** | [View Resume](https://drive.google.com/file/d/12PfJTOlkSJPSx8FqtOus_9zFBHlbF3qq/view?usp=drivesdk) |
+| 📄 **Resume (PDF)** | [View Resume](https://drive.google.com/file/d/1cXdbMmJ09ZoZdi_FYA3xgN-oA-Oz7RdF/view) |
 | 💻 **GitHub** | [@dineshsuthar123](https://github.com/dineshsuthar123) |
 | 💼 **LinkedIn** | [Dinesh Suthar](https://www.linkedin.com/in/dinesh-suthar-45b555287/) |
 | 🟠 **LeetCode** | [dinesh_12334](https://leetcode.com/u/dinesh_12334) |
