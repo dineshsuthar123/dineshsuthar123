@@ -1,216 +1,220 @@
-# 🚀 Dinesh H Suthar
+# Hi, I'm Dinesh H Suthar 👋
 
-> **Performance-focused Backend & Blockchain Engineer**  
-> Building high-throughput Java microservices and gas-efficient blockchain systems. I design, benchmark and ship production services that are **low-latency**, **resilient** and **observable**.
+### Computer Science Student | Backend, Systems & Performance Engineering
 
----
+I'm a **Computer Science Engineering student in Bengaluru**, graduating in **2027**. I enjoy building backend systems, studying distributed architectures, improving application performance, and solving algorithmic problems.
 
-## ⚡ Quick Snapshot
+My primary stack is **Java and Spring Boot**, with additional experience in Go, Python, TypeScript, Kafka, Redis, PostgreSQL, Docker, and Kubernetes.
 
-- 🎯 Performance-focused backend engineer (Java, Spring Boot) with hands-on experience in distributed systems, low-latency architectures, and event-driven pipelines
-- 💼 Internship experience in backend & performance engineering at **Samsung PRISM**
-- 🏆 **700+ LeetCode & Codeforces problems solved** — mastering algorithmic patterns and competitive programming
-- 📦 Practical track record: end-to-end projects deployed on **Kubernetes** with verified **Locust benchmarks** and CI integration
+I am currently looking for **software engineering internships, backend roles, open-source opportunities, and technically challenging projects** where I can learn from experienced engineers and contribute meaningfully.
 
 ---
 
-## 💪 Core Strengths
+## About Me
 
-| Domain | Skills |
-|--------|--------|
-| ⚙️ **Backend Performance** | Profiling, eBPF, lock-free patterns, low-latency engineering |
-| 🌐 **Distributed Systems** | Kafka, idempotency, partitioning, event-driven architectures |
-| ☕ **Production Java** | Spring Boot, concurrency, memory profiling, JVM tuning |
-| 📊 **Observability** | Prometheus, Grafana, SLOs, structured logging, distributed tracing |
-| 🔬 **Benchmarking** | JMH, Locust, performance regression, CI integration |
-
----
-
-## 🛠️ Technical Stack (Production-Oriented)
-
-```
-🔥 Primary:     Java (OpenJDK 17), Spring Boot (Core, Data, Security)
-🌟 Secondary:   Python, TypeScript, FastAPI
-💾 Data & Infra: PostgreSQL, Redis (caching), Kafka (streaming), Docker, Kubernetes, AWS
-⚡ Performance:  LMAX Disruptor, eBPF, JMH, Locust, perf
-📈 CI & Ops:    GitHub Actions, Prometheus, Grafana, tracing & centralized logs
-```
+* 🎓 B.E. Computer Science Engineering student at Cambridge Institute of Technology
+* ☕ Java is my primary language for development and technical interviews
+* ⚙️ Interested in backend engineering, distributed systems, concurrency, and performance
+* 💼 Completed a backend and performance engineering internship through **Samsung PRISM**
+* 🏆 Solved **700+ problems** across LeetCode and Codeforces
+* 🌍 Actively contributing to open-source projects
+* 📚 Currently strengthening Java, system design, CS fundamentals, and cloud-native development
 
 ---
 
-## 🎯 Selected Projects (Concise & Measurable)
+## Technical Skills
 
-### 🔐 Supply Chain Authentication System
-
-**Stack:** `Spring Boot` • `Kafka` • `Redis` • `Kubernetes`
-
-**What:** Production-ready platform to prevent counterfeiting at scale.
-
-**Outcome:**  
-✅ Verified Locust benchmark: **7k+ RPS** with ~**12.8 ms p99** on core verification endpoints  
-✅ 200k-entry Redis cache with **99.8% hit-rate**  
-✅ Production-grade observability with Prometheus & Grafana
-
----
-
-### 🤖 AI Resume Analyzer
-
-**Stack:** `FastAPI` • `Vector Search` • `Lightweight Embeddings`
-
-**What:** Low-memory resume parser and scorer for hiring workflows.
-
-**Outcome:**  
-✅ **95% parsing accuracy** across PDF/DOCX formats  
-✅ Optimized to run in **512 MB containers**  
-✅ Fast semantic matching with vector embeddings
+| Area                       | Technologies                                            |
+| -------------------------- | ------------------------------------------------------- |
+| **Languages**              | Java, Go, Python, TypeScript, SQL                       |
+| **Backend**                | Spring Boot, FastAPI, REST APIs, Microservices          |
+| **Databases**              | PostgreSQL, CockroachDB, Redis, pgvector                |
+| **Distributed Systems**    | Kafka, Redpanda, Event-Driven Architecture, Idempotency |
+| **Infrastructure**         | Docker, Kubernetes, GitHub Actions, AWS                 |
+| **Observability**          | Prometheus, Grafana, Structured Logging                 |
+| **Testing & Benchmarking** | JUnit, JMH, k6, Locust, Pytest                          |
+| **Developer Tools**        | Git, GitHub, Linux, Maven, Gradle                       |
 
 ---
 
-### ⚡ Low-Latency Engine (R&D)
+## Experience
 
-**Stack:** `Java Concurrency` • `Lock-free Data Structures` • `Optimization Patterns`
+### Samsung PRISM — Backend & Performance Engineering Intern
 
-**What:** Reduced contention in an event processing pipeline.
+**June 2025 – March 2026**
 
-**Outcome:**  
-✅ Up to **~68% latency reduction** in targeted flows  
-✅ Algorithmic improvements + strategic caching  
-✅ Zero-allocation critical paths
+Worked on an automated professor-profile management and knowledge-graph construction system.
 
----
+Some of my contributions included:
 
-## 📊 Performance & Reliability — Current Metrics & Goals
-
-### 🎯 Current (Verified)
-
-- ✅ Locust-verified benchmarks: **7k+ RPS**, **12.8 ms p99** on verification service
-- ✅ Internship improvements: **+40% throughput** in enrichment pipelines
-- ✅ Production-grade observability and health checks deployed
-
-### 🚀 Goals
-
-- 🎯 Scale critical services toward **10k–100k RPS** depending on problem surface
-- ⚡ Keep p99 latency **under 100 ms** for user-facing APIs (target **<50 ms** for critical paths)
-- 🛡️ Aim for **99.95% availability** on core processing flows
-- 🔬 Automated perf regression tests in CI/CD pipeline
+* Improved enrichment-pipeline throughput by approximately **40%**
+* Implemented token-bucket rate limiting for workflows processing **10,000+ daily profiles**
+* Reduced thread contention in concurrent processing flows
+* Added JMH benchmarks and JUnit regression tests to the CI workflow
+* Worked with backend services, concurrent processing, performance testing, and reliability improvements
 
 ---
 
-## 🔄 How I Build Things — Workflow
+## Selected Projects
 
-```mermaid
-graph LR
-    A[📝 Design & RFC] --> B[🔬 Prototype & Benchmark]
-    B --> C[📊 Instrument Early]
-    C --> D[🧪 Tests & Perf Regression]
-    D --> E[🚀 CI/CD & Rollout]
-    E --> F[📈 Post-Deploy Audits]
-```
+### Nexus RTP — Distributed Payment System
 
-1. **📝 Design & RFC** — Short design doc with acceptance criteria and target metrics
-2. **🔬 Prototype & benchmark** — Micro-prototypes + JMH (micro) and Locust (end-to-end) to validate approach
-3. **📊 Instrument early** — Metrics, logs, and tracing from day one (Prometheus + distributed tracing)
-4. **🧪 Tests & perf regression** — Unit + integration tests, plus automated perf checks in CI
-5. **🚀 CI/CD & rollout** — GitHub Actions + canary/staged rollouts with health checks
-6. **📈 Post-deploy audits** — Dashboards, alerts, and regular perf regression runs
+**Go · CockroachDB · Kafka · Redis · Prometheus**
 
-> This keeps features **measurable**, **safe to deploy**, and **easy to validate** for reviewers.
+A distributed payment-system case study focused on correctness, reliability, and transaction processing.
+
+* Designed an immutable double-entry ledger
+* Implemented idempotent transaction processing using UETRs
+* Used serializable transactions and sharded account writes
+* Reduced measured p99 latency from approximately **1500 ms to 140 ms** after addressing hot-row contention
+* Used Kafka outbox and CDC patterns for crash-safe event delivery
+* Added duplicate handling, balance validation, and service metrics
 
 ---
 
-## 🏆 Competitive Programming & Problem Solving
+### High-Performance URL Shortener
+
+**Java 21 · Spring Boot · Redis · PostgreSQL · Redpanda**
+
+A backend service built to explore caching, concurrency, rate limiting, and performance testing.
+
+* Implemented URL creation, redirection, expiration, and analytics
+* Added Redis caching and cache-stampede protection
+* Implemented fixed-window rate limiting
+* Built asynchronous analytics using Redpanda
+* Created k6 performance-test suites
+* Measured endpoint latencies in the low-millisecond range during local benchmarks
+
+---
+
+### SupplyPrint — Product Identity and Provenance Platform
+
+**Spring Boot · React · PostgreSQL · pgvector · ONNX Runtime**
+
+A platform for verifying product identity and managing supply-chain information.
+
+* Developed REST APIs using Spring Boot
+* Built the frontend using React
+* Used PostgreSQL and pgvector for structured and vector data
+* Integrated ONNX Runtime for local model inference
+* Added caching, validation, and performance measurements
+* Explored product verification and counterfeit-prevention workflows
+
+---
+
+### AgentBus — Multi-Agent Software Engineering Runtime
+
+**Python · SQLite · Azure OpenAI · Ollama · GitHub**
+
+A provider-neutral multi-agent runtime for planning, coding, testing, reviewing, and executing software-engineering tasks.
+
+* Built planner, coder, verifier, and reviewer workflows
+* Added durable task execution using SQLite
+* Implemented task graphs, retries, approval gates, and crash recovery
+* Added Azure OpenAI and Ollama provider support
+* Built repository-context generation and automated test-command detection
+* Grew the automated test suite to **199 passing tests**
+
+---
+
+### Council — Multi-Model Orchestration Engine
+
+**Java 21 · Spring Boot · LLM APIs**
+
+A backend system for coordinating multiple AI models and selecting responses based on task requirements.
+
+* Integrated multiple model providers
+* Designed provider routing and model-evaluation workflows
+* Added structured execution and error handling
+* Investigated and fixed malformed tool-call failures
+* Validated fixes through repeated automated test runs
+
+---
+
+## Open-Source Contributions
+
+I am actively learning open-source development by contributing bug fixes, tests, documentation, and CI improvements.
+
+A recent contribution to **OpenClaw** fixed a CI regression involving a PR-wrapper fixture and external-fork GitHub-hosted runners. The fix was included in the project's **v2026.7.2-beta.5 pre-release**.
+
+When contributing, I try to provide:
+
+* A clear explanation of the problem
+* Reproduction steps where possible
+* A focused and minimal patch
+* Tests that verify the behaviour
+* Documentation for reviewers and maintainers
+
+---
+
+## Competitive Programming
+
+I regularly practise data structures, algorithms, and problem-solving through LeetCode and Codeforces.
+
+### 700+ Problems Solved
+
+| Platform       | Profile                                                   |
+| -------------- | --------------------------------------------------------- |
+| **LeetCode**   | [dinesh_12334](https://leetcode.com/u/dinesh_12334)       |
+| **Codeforces** | [Dinesh_1107](https://codeforces.com/profile/Dinesh_1107) |
+
+Topics I frequently practise include:
+
+`Arrays` · `Strings` · `Trees` · `Graphs` · `Dynamic Programming` · `Greedy` · `Binary Search` · `Sliding Window` · `Heaps` · `Tries` · `Union Find` · `Segment Trees`
+
+My current goal is to improve my contest consistency and progress toward **Codeforces Candidate Master**.
+
+---
+
+## What I'm Currently Learning
+
+* Advanced Java and JVM internals
+* Multithreading and concurrency
+* Distributed-system design
+* Database transactions and consistency
+* Backend testing and performance engineering
+* Docker, Kubernetes, and cloud deployment
+* System design for software-engineering interviews
+* Open-source collaboration and code review
+
+---
+
+## What I'm Looking For
+
+I am open to:
+
+* Software engineering internships
+* Backend and systems-engineering opportunities
+* Open-source collaborations
+* Startup engineering roles
+* Research-oriented software projects
+* Mentorship from experienced engineers
+
+I am especially interested in teams working on backend infrastructure, developer tools, distributed systems, databases, cloud platforms, or performance-sensitive applications.
+
+---
+
+## Connect With Me
+
+| Resource          | Link                                                                                  |
+| ----------------- | ------------------------------------------------------------------------------------- |
+| 📄 **Resume**     | [View Resume](https://drive.google.com/file/d/1cXdbMmJ09ZoZdi_FYA3xgN-oA-Oz7RdF/view) |
+| 💻 **GitHub**     | [@dineshsuthar123](https://github.com/dineshsuthar123)                                |
+| 💼 **LinkedIn**   | [Dinesh Suthar](https://www.linkedin.com/in/dinesh-suthar-45b555287/)                 |
+| 🟠 **LeetCode**   | [dinesh_12334](https://leetcode.com/u/dinesh_12334)                                   |
+| 🔵 **Codeforces** | [Dinesh_1107](https://codeforces.com/profile/Dinesh_1107)                             |
+| 📧 **Email**      | [dinesh.suthar18sld@gmail.com](mailto:dinesh.suthar18sld@gmail.com)                   |
+
+---
 
 <div align="center">
 
-### 💻 **700+ Problems Solved**
+### Thanks for visiting my profile!
 
-| Platform | Profile | Achievement |
-|----------|---------|-------------|
-| 🟠 **LeetCode** | [dinesh_12334](https://leetcode.com/u/dinesh_12334) | Master of algorithmic patterns |
-| 🔵 **Codeforces** | [Dinesh_1107](https://codeforces.com/profile/Dinesh_1107) | Competitive problem solver |
-
-**Patterns Mastered:** Arrays • Strings • Trees • Graphs • Dynamic Programming • Backtracking • Greedy • Binary Search • Two Pointers • Sliding Window • Stack/Queue • Heap • Trie • Union Find
-
-</div>
-
----
-
-## 🌟 Open Source & Community
-
-I contribute to open-source projects focusing on:
-
-- 🐛 **Bug fixes** — Clear reproduction steps and minimal patches
-- 📚 **Documentation improvements** — Developer experience enhancements
-- ⚡ **Performance patches** — Quick wins with benchmarks for maintainers
-
-> I write **clear PRs**, include **benchmarks** where relevant, and ensure changes are **easy to validate**.
-
----
-
-## 🤝 How to Collaborate (Preferences)
-
-**Open to:**
-- 💼 Internships
-- 🌍 Open-source contributions
-- 🚀 Startup roles
-- 💰 Freelance gigs
-- 🎓 Mentorship relationships
-
-**Preferred workflow:**
-```
-📬 Open an issue → 💬 Short design discussion → 🔧 PR with tests & benchmarks
-```
-
-**Deliverables I provide:**
-- 📋 Design doc
-- 📊 Benchmark plan
-- ✅ Tests
-- 🔄 CI config
-- 📝 Rollout notes
-
----
-
-## 📬 Resume & Socials
-
-<div align="center">
-
-| Resource | Link |
-|----------|------|
-| 📄 **Resume (PDF)** | [View Resume](https://drive.google.com/file/d/1cXdbMmJ09ZoZdi_FYA3xgN-oA-Oz7RdF/view) |
-| 💻 **GitHub** | [@dineshsuthar123](https://github.com/dineshsuthar123) |
-| 💼 **LinkedIn** | [Dinesh Suthar](https://www.linkedin.com/in/dinesh-suthar-45b555287/) |
-| 🟠 **LeetCode** | [dinesh_12334](https://leetcode.com/u/dinesh_12334) |
-| 🔵 **Codeforces** | [Dinesh_1107](https://codeforces.com/profile/Dinesh_1107) |
-| 📧 **Email** | [dinesh.suthar18sld@gmail.com](mailto:dinesh.suthar18sld@gmail.com) |
-
-</div>
-
----
-
-## 🎯 TL;DR — Why Work With Me
-
-```
-✨ I design and ship backend systems with measurable performance guarantees
-🔬 I validate approaches with benchmarks before production
-📊 I instrument services for complete observability
-🧪 I deliver production-grade code, tests, and rollout plans
-⚡ I treat performance as a first-class feature, not an afterthought
-```
-
-> **If you need a Java backend engineer who treats performance as a first-class feature, let's work together.** 🚀
-
----
-
-<div align="center">
-
-### 💡 Fun Fact
-
-*"Premature optimization is the root of all evil, but measuring performance is always the right time."*
-
-**Let's build something fast, reliable, and legendary together!** ⚡🔥
+I'm always interested in learning, collaborating, and building useful software.
 
 [![GitHub followers](https://img.shields.io/github/followers/dineshsuthar123?style=social)](https://github.com/dineshsuthar123)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dinesh-suthar-45b555287/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-700%2B%20Solved-orange?style=flat&logo=leetcode)](https://leetcode.com/u/dinesh_12334)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/dinesh-suthar-45b555287/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-700%2B%20Solved-orange?style=flat\&logo=leetcode)](https://leetcode.com/u/dinesh_12334)
 
 </div>
