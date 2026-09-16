@@ -129,7 +129,7 @@ I try to keep contributions:
 
 ## 07 // Competitive Programming
 
-**700+ problems solved** across
+**1100+ problems solved** across
 [LeetCode](https://leetcode.com/u/dinesh_12334) and
 [Codeforces](https://codeforces.com/profile/Dinesh_1107).
 
